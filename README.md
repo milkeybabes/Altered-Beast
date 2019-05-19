@@ -9,5 +9,3 @@ So the files are not broken, it's just how the system stored the information.
 
 Code started on 25th July 1989 last edit on 11th September 1989.
 Prime example of pressured development time to produce a title.
-One of the first examples of sprite duplication to have tall sprites using same sprite number. Using the overlapping technique.
-A shout out to old friend  Simon Nickol, and also Stavros Fasoulas who I beleive was one of the first people to discover this thechnique, I'm not 100% sure from memory if this was correct.
